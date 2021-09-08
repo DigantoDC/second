@@ -1,0 +1,53 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+
+body{
+		background: url(light.jpg);
+
+	}
+
+
+.main-div{
+		height:600px;
+		width: 910px;
+		margin:250px auto;
+		text-align: center;
+
+		 }
+
+
+.table-fix{
+
+		width:600px;
+		padding:15px;
+		margin:5px;
+		box-shadow:5px 5px 5px;
+	
+		  }
+
+
+.submit-fix{
+
+	 	   width:100px;
+           height:56px;
+           margin:35px;
+           background-color:green;
+           box-shadow: 5px 5px 5px;
+           cursor: pointer;
+
+			}
+
+
+.main-div .lt-fix{ 
+
+	text-decoration: none;
+	text-transform: capitalize;
+	background: green;
+	color:white;
+	padding:20px;
+
+				}
